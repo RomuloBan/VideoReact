@@ -8,4 +8,4 @@ const SearchBar = () => {
 
 
 
-exports default SearchBar;
+export default SearchBar;
