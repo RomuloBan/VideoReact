@@ -3,6 +3,8 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
+import SearchBar from './components/search_bar';
+
 const API_KEY = 'AIzaSyD4JxQgebX6T1d1PnwShMY0yWmpWcAs50c';
 
 const App = function() {
