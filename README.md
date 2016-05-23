@@ -8,7 +8,7 @@ Example of YouTube search videos app made in React / Redux
 Checkout this repo and then start the process with the following:
 
 ```
-	> git clone git@github.com:RomuloBan/VideoReact.git
+	> git clone https://github.com/RomuloBan/VideoReact.git
 	> cd VideoReact
 	> npm install
 	> npm start
